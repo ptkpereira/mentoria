@@ -19,3 +19,7 @@ Tive (e ainda tenho) sucesso trabalhando como freelancer para empresas e startup
 Como dito acima, a ideia é que os mentorados usem a parte de [issues](https://github.com/hnordt/mentoring/issues) para postar suas dúvidas ou pedidos de ajuda, e todo dia vou tentar responder alguém através de um documento neste repositório que possa ajudar várias pessoas ao mesmo tempo.
 
 Sinta-se a vontade para postar [sua primeira dúvida, pedir ajuda, ou contar sua história](https://github.com/hnordt/mentoring/issues/new).
+
+# Agradecimentos
+
+- [Sibelius Seraphini](https://twitter.com/sseraphini) pela ideia de iniciar a mentoria
