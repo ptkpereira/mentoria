@@ -8,7 +8,7 @@ Se você decidir trabalhar como freelancer, quero que você consiga manter um pi
 
 Conhecimento é liberdade. 📚
 
-Outro objetivo principal é te ajudar a sair do zero. Quero resolver o grande paradoxo de desenvolvedores(as) que estão começando: pra conseguir um bom emprego (ou trabalhos) é necessário ter experiência, mas pra ter experiência é preciso conseguir um bom emprego (ou trabalhos).
+Outro objetivo principal é te ajudar a sair do zero caso você esteja iniciando. Quero resolver o grande paradoxo de desenvolvedores(as) que estão começando: pra conseguir um bom emprego (ou trabalhos) é necessário ter experiência, mas pra ter experiência é preciso conseguir um bom emprego (ou trabalhos).
 
 # Sobre a mentoria
 
