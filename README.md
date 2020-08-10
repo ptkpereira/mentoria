@@ -1,3 +1,13 @@
+# Conhecimento é liberdade
+
+Um dos principais objetivos desta mentoria é te tornar livre.
+
+Se você decidir trabalhar como empregado, quero que você escolha uma empresa que goste, e não que aceite trabalhar para empresas que não te valorizam ou que te tratam mal.
+
+Se você decidir trabalhar como freelancer, quero que você consiga manter um pipeline de projetos sem intermediários, não quero que você seja vítima de pessoas que querem explorar mão de obra barata.
+
+Conhecimento é liberdade. 📚
+
 # Sobre a mentoria
 
 No dia 10 de agosto de 2020 decidi [tentar ajudar](https://twitter.com/hnordt/status/1292880783296925696) desenvolvedores(as) que tem pouca experiência com [React](https://reactjs.org) e que estão procurando emprego ou estão insatisfeitos(as) com o emprego atual.
@@ -13,16 +23,6 @@ Desenvolvo sistemas desde 2006. Comecei com PHP, estudei Ruby, Python, e depois 
 Em 2015 comecei a trabalhar como freelancer para startups nos EUA exclusivamente com frontend, apesar de brincar com backends de vez em quando.
 
 Tive (e ainda tenho) sucesso trabalhando como freelancer para empresas e startups do mundo todo, principalmente EUA, e agora tenho vontade de fazer algo pela comunidade. Quero resolver o grande paradoxo de desenvolvedores(as) que estão começando: pra conseguir um bom emprego (ou trabalhos) é necessário ter experiência, mas pra ter experiência é preciso conseguir um bom emprego (ou trabalhos).
-
-# Conhecimento é liberdade
-
-Um dos objetivos da mentoria é te tornar livre.
-
-Se você decidir trabalhar como empregado, quero que você escolha uma empresa que goste, e não que aceite trabalhar para empresas que não te valorizam ou que te tratam mal.
-
-Se você decidir trabalhar como freelancer, quero que você consiga manter um pipeline de projetos sem intermediários, não quero que você seja vítima de pessoas que querem explorar mão de obra barata.
-
-Conhecimento é liberdade.
 
 # Proposta da mentoria
 
