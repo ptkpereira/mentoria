@@ -8,6 +8,8 @@ Se você decidir trabalhar como freelancer, quero que você consiga manter um pi
 
 Conhecimento é liberdade. 📚
 
+Outro objetivo principal é te ajudar a sair do zero. Quero resolver o grande paradoxo de desenvolvedores(as) que estão começando: pra conseguir um bom emprego (ou trabalhos) é necessário ter experiência, mas pra ter experiência é preciso conseguir um bom emprego (ou trabalhos).
+
 # Sobre a mentoria
 
 No dia 10 de agosto de 2020 decidi [tentar ajudar](https://twitter.com/hnordt/status/1292880783296925696) desenvolvedores(as) que tem pouca experiência com [React](https://reactjs.org) e que estão procurando emprego ou estão insatisfeitos(as) com o emprego atual.
@@ -22,7 +24,7 @@ Desenvolvo sistemas desde 2006. Comecei com PHP, estudei Ruby, Python, e depois 
 
 Em 2015 comecei a trabalhar como freelancer para startups nos EUA exclusivamente com frontend, apesar de brincar com backends de vez em quando.
 
-Tive (e ainda tenho) sucesso trabalhando como freelancer para empresas e startups do mundo todo, principalmente EUA, e agora tenho vontade de fazer algo pela comunidade. Quero resolver o grande paradoxo de desenvolvedores(as) que estão começando: pra conseguir um bom emprego (ou trabalhos) é necessário ter experiência, mas pra ter experiência é preciso conseguir um bom emprego (ou trabalhos).
+Tive (e ainda tenho) sucesso trabalhando como freelancer para empresas e startups do mundo todo, principalmente EUA, e agora tenho vontade de fazer algo pela comunidade.
 
 # Proposta da mentoria
 
