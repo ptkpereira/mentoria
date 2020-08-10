@@ -12,7 +12,7 @@ Desenvolvo sistemas desde 2006. Comecei com PHP, estudei Ruby, Python, e depois 
 
 Em 2015 comecei a trabalhar como freelancer para startups nos EUA exclusivamente com frontend, apesar de brincar com backends de vez em quando.
 
-Tive (e ainda tenho) sucesso trabalhando como freelancer nos EUA, e agora tenho vontade de fazer algo pela comunidade. Quero resolver o grande paradoxo de desenvolvedores(as) que estão começando: pra conseguir um bom emprego (ou trabalhos) é necessário ter experiência, mas pra ter experiência é preciso conseguir um bom emprego (ou trabalhos).
+Tive (e ainda tenho) sucesso trabalhando como freelancer para empresas e startups do mundo todo, principalmente EUA, e agora tenho vontade de fazer algo pela comunidade. Quero resolver o grande paradoxo de desenvolvedores(as) que estão começando: pra conseguir um bom emprego (ou trabalhos) é necessário ter experiência, mas pra ter experiência é preciso conseguir um bom emprego (ou trabalhos).
 
 # Proposta da mentoria
 
