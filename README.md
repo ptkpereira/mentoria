@@ -26,6 +26,12 @@ Além disso, este `README` é um ebook em desenvolvimento.
 
 Sinta-se a vontade para postar [sua primeira dúvida, pedir ajuda, ou contar sua história](https://github.com/hnordt/mentoring/issues/new).
 
+## Sobre acentuacao
+
+Faz alguns anos que trabalho exclusivamente escrevendo em ingles. Perdi totalmente a paciencia e pratica de acentuar palavras.
+
+Como o ebook esta em desenvolvimento, nao vou acentuar nada pra terminar o mais rapido possivel. Fique a vontade para fazer pull requests se quiser ajudar.
+
 # Capítulo I: Questões técnicas
 
 ## Frontend, backend ou ambos (full stack)?
