@@ -56,7 +56,7 @@ Eu particularmente gosto de bibliotecas como React, que nao te dao uma solucao c
 
 Dito isso, é apenas minha opiniao pessoal, se voce gosta de frameworks, use frameworks.
 
-# Depois que escolhi minha linguagem, bilioteca e/ou framework. Como devo estudar?
+## Depois que escolhi minha linguagem, bilioteca e/ou framework. Como devo estudar?
 
 (continua)
 
