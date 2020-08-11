@@ -42,6 +42,22 @@ Pra resumir, o mercado precisa de especialistas em frontend, backend e também f
 
 ## PHP, Python, Ruby ou JavaScript? React, Vue ou Angular? Express ou Koa?
 
+Mais uma vez, escolha o que te faz mais feliz. Tanto a linguagem como a biblioteca. Existe mercado pra tudo.
+
+Se voce nao sabe o que te faz feliz, recomendo brincar com cada tecnologia de forma incremental (um pouco por dia), e escolha o que gosta mais.
+
+Evite entrar em discussoes religiosas sobre linguagens, bibliotecas ou frameworks. Essas discussoes sao totalmente inuteis.
+
+Aprenda que no mundo da tecnologia tudo tem vantagens e desvantagens. Absolutamente tudo. Escolha o que gosta mais, e esqueca discussoes bestas.
+
+Apenas uma recomendacao: evite frameworks que te amarram ao mundo deles. Esse é um motivo pelo qual nao gosto de Angular (pelo menos a versao 1). Ele tenta fazer demais por voce, tem opiniao sobre tudo. No comeco é bom pq vc tem alguem te dando solucoes pra problemas que vc nao quer pensar. Mas quando vc ganha experiencia, vc percebe que está preso ao mundo do framework e fica dificil sair dele. Isso é bem limitador.
+
+Eu particularmente gosto de bibliotecas como React, que nao te dao uma solucao completa, elas tentam resolver apenas um problema, mas resolvem muito bem. No comeco é complicado. Voce é iniciante e precisa aprender a combinar diversas bibliotecas pra criar uma solucao. Mas com o tempo fica mais facil, e a liberdade que vc ganha vale a pena.
+
+Dito isso, é apenas minha opiniao pessoal, se voce gosta de frameworks, use frameworks.
+
+# Depois que escolhi minha linguagem, bilioteca e/ou framework. Como devo estudar?
+
 (continua)
 
 # Agradecimentos
