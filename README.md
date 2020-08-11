@@ -72,9 +72,9 @@ Independente do metodo de aprendizado que funciona com voce, uma coisa é absolu
 
 Vou repetir de novo: leia a documentacao oficial da tecnologia que vc quer aprender.
 
-Isso deve ser a primeira coisa que vc deve fazer quando decidir aprender alguma tecnologia. Esqueca blogs, esqueca screencasts, esqueca todo o conteudo paralelo e indireto. Leia a documentacao oficial da tecnologia que vc quer aprender.
+Isso deve ser a primeira coisa a se fazer quando vc decidir aprender alguma tecnologia. Esqueca blogs, esqueca screencasts, esqueca todo o conteudo paralelo e indireto. Leia a documentacao oficial da tecnologia que vc quer aprender.
 
-Provavelmente vc nao vai absorver todo o conteudo na primeira leitura. Nao tem problema. Para os topicos que vc nao conseguir aprender, vc pode pedir ajuda na comunidade, e se mesmo assim nao entender, avance e deixe pra voltar nisso mais tarde.
+Provavelmente vc nao vai absorver todo o conteudo na primeira leitura. Nao tem problema. Para os topicos que nao conseguir entender, peça ajuda na comunidade, e se mesmo assim continuar com duvidas, avance e deixe pra voltar nisso mais tarde.
 
 Por exemplo, eu só entendi 100% da documentacao oficial do React depois de 5 anos. Eu reli essa documentacao pelo menos umas 10 vezes. Todas as vezes que reli aprendi algo novo que deixei passar, ou nao tinha entendido, ou que achei que tinha entendido.
 
