@@ -62,9 +62,83 @@ Eu particularmente gosto de bibliotecas como React, que não te dão uma soluç�
 
 Dito isso, é apenas minha opinião pessoal, se você gosta de frameworks, use frameworks.
 
-## Depois que escolhi minha linguagem, bilioteca e/ou framework. Como devo estudar?
+## Depois que escolhi minha linguagem, biblioteca e/ou framework. Como devo estudar?
 
-(continua)
+TODO
+
+# Capítulo II: O primeiro emprego (ou trabalho)
+
+## Estou preparado para procurar um emprego (ou trabalho)?
+
+TODO
+
+## Devo procurar empregos (ou trabalhos) como estagiário ou junior?
+
+TODO
+
+## Devo trabalhar como empregado ou como freelancer?
+
+TODO
+
+## Onde encontrar emprego e/ou trabalhos?
+
+TODO
+
+## Como identificar empregos ou clientes ruins?
+
+TODO
+
+## Devo aceitar empregos ou trabalhos onde existem desafios tecnicos que nao me sinto seguro?
+
+TODO
+
+# Capítulo III: A arte de negociar
+
+## Como fechar bons contratos?
+
+TODO
+
+## Como estimar valores e tempo de entrega?
+
+TODO
+
+# Capítulo IV: A arte de gerenciar
+
+## Como empregado, como superar o medo da demissao?
+
+TODO
+
+## Como freelancer, como superar o medo de ficar sem projetos?
+
+TODO
+
+## Como estimar entregas?
+
+TODO
+
+## Como evitar atrasos nas entregas?
+
+TODO
+
+# Capítulo V: Questões jurídicas
+
+## Como empregado, quais cuidados devo tomar?
+
+TODO
+
+## Como freelancer, como criar um contrato?
+
+TODO
+
+# Capítulo VI: Questões contábeis
+
+## Posso ser MEI?
+
+TODO
+
+## Como pagar menos impostos?
+
+TODO
 
 # Agradecimentos
 
