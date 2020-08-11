@@ -64,6 +64,38 @@ Dito isso, é apenas minha opinião pessoal, se você gosta de frameworks, use f
 
 ## Depois que escolhi minha linguagem, biblioteca e/ou framework. Como devo estudar?
 
+Cada pessoa aprende de um jeito. Alguns tem mais facilidade de aprender vendo vídeos, outros lendo, etc.
+
+Uma coisa é fato. Estudar é chato, mas é necessário. 
+
+Independente do metodo de aprendizado que funciona com voce, uma coisa é absolutamente essencial: leia a documentacao oficial da tecnologia que vc quer aprender.
+
+Vou repetir de novo: leia a documentacao oficial da tecnologia que vc quer aprender.
+
+Isso deve ser a primeira coisa que vc deve fazer quando decidir aprender alguma tecnologia. Esqueca blogs, esqueca screencasts, esqueca todo o conteudo paralelo e indireto. Leia a documentacao oficial da tecnologia que vc quer aprender.
+
+Provavelmente vc nao vai absorver todo o conteudo na primeira leitura. Nao tem problema. Para os topicos que vc nao conseguir aprender, vc pode pedir ajuda na comunidade, e se mesmo assim nao entender, avance e deixe pra voltar nisso mais tarde.
+
+Por exemplo, eu só entendi 100% da documentacao oficial do React depois de 5 anos. Eu reli essa documentacao pelo menos umas 10 vezes. Todas as vezes que reli aprendi algo novo que deixei passar, ou nao tinha entendido, ou que achei que tinha entendido.
+
+A documentacao oficial da tecnologia que vc quer aprender é a coisa mais importante a estudar, nela vc vai encontrar praticamente tudo que precisa aprender. Artigos, videos, ou qualquer conteudo paralelo ou indireto sao complementares. Coisa que vc pode estudar com o tempo.
+
+Esqueca essa ideia de boas praticas. Boas praticas sao passageiras, o que é boa pratica hoje, amanha pode nao ser. Todas as boas praticas que sao a prova do tempo estao documentadas na documentacao oficial.
+
+Se vc quiser ser um programador acima da media, que realmente entende o que usa, leia a documentacao oficial. Leia e releia, varias vezes se for necessario.
+
+O beneficio de ler a documentacao oficial é uma das poucas verdades absolutas que existe no mundo da tecnologia.
+
+### Mas e se eu nao souber ingles?
+
+TODO
+
+## Como escolher novas tecnologias para estudar?
+
+TODO
+
+## Quanto tempo estudar?
+
 TODO
 
 # Capítulo II: O primeiro projeto
