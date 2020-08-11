@@ -16,7 +16,7 @@ Desenvolvo sistemas desde 2006. Comecei com PHP, estudei Ruby, Python, e depois 
 
 Em 2015 comecei a trabalhar como freelancer para startups nos EUA exclusivamente com frontend, apesar de brincar com backends de vez em quando.
 
-Tive (e ainda tenho) sucesso trabalhando como freelancer para empresas e startups do mundo todo, principalmente EUA, e agora tenho vontade de fazer algo pela comunidade.
+Tive (e ainda tenho) sucesso trabalhando como freelancer para empresas e startups do mundo todo, principalmente EUA, e agora quero fazer algo pela comunidade.
 
 ## Proposta da mentoria
 
@@ -26,9 +26,23 @@ Além disso, este `README` é um ebook em desenvolvimento.
 
 Sinta-se a vontade para postar [sua primeira dúvida, pedir ajuda, ou contar sua história](https://github.com/hnordt/mentoring/issues/new).
 
-# Capítulo I: A tecnologia
+# Capítulo I: Questões técnicas
 
-TODO
+## Frontend, backend ou ambos (full stack)?
+
+Há mercado suficiente para desenvolvedores que querem trabalhar apenas com frontend, apenas com backend, ou ambos. Então essa é uma escolha pessoal, escolha o que te faz mais feliz.
+
+Apenas tenha em mente que é muito difícil se tornar especialista em ambos, uma vez que tanto frontend quanto backend evoluem muito rápido. Um especialista precisa estudar diariamente, e voce dificilmente vai conseguir tempo pra se aprofundar nos dois e ainda trabalhar.
+
+Em geral, especialistas conseguem salarios maiores. Isso nao quer dizer que um full stack ganha menos. Depende da sua experiencia e da sua habilidade de negociacao.
+
+Eu particularmente prefiro ser especialista em algo. Há 5 anos trabalho exclusivamente com frontend, e tenho tempo para estudar diaramente. As vezes faço alguns projetos backend, mas apenas por diversao.
+
+Pra resumir, o mercado precisa de especialistas em frontend, backend e também full stack developers. Escolha o que te faz mais feliz. Leve apenas em consideracao que como full stack fica mais dificil se tornar especialista.
+
+## PHP, Python, Ruby ou JavaScript? React, Vue ou Angular? Express ou Koa?
+
+(continua)
 
 # Agradecimentos
 
