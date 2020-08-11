@@ -66,29 +66,33 @@ Dito isso, é apenas minha opinião pessoal, se você gosta de frameworks, use f
 
 TODO
 
-# Capítulo II: O primeiro emprego (ou trabalho)
-
-## Estou preparado para procurar um emprego (ou trabalho)?
-
-TODO
-
-## Devo procurar empregos (ou trabalhos) como estagiário ou junior?
-
-TODO
+# Capítulo II: O primeiro projeto
 
 ## Devo trabalhar como empregado ou como freelancer?
 
 TODO
 
-## Onde encontrar emprego e/ou trabalhos?
+## Como empregado, estou preparado para procurar vagas?
 
 TODO
 
-## Como identificar empregos ou clientes ruins?
+## Como freelancer, estou preparado para procurar projetos?
 
 TODO
 
-## Devo aceitar empregos ou trabalhos onde existem desafios tecnicos que nao me sinto seguro?
+## Sou estagiário ou junior? Devo procurar que tipo de vaga?
+
+TODO
+
+## Onde encontrar emprego e/ou projetos?
+
+TODO
+
+## Como identificar vagas ou clientes ruins?
+
+TODO
+
+## Devo aceitar um emprego ou projeto onde existem desafios tecnicos que nao me sinto seguro?
 
 TODO
 
