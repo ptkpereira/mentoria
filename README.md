@@ -84,7 +84,7 @@ Esqueca essa ideia de boas praticas. Boas praticas sao passageiras, o que é boa
 
 Se vc quiser ser um programador acima da media, que realmente entende o que usa, leia a documentacao oficial. Leia e releia, varias vezes se for necessario.
 
-O beneficio de ler a documentacao oficial é uma das poucas verdades absolutas que existe no mundo da tecnologia.
+O beneficio de ler e entender a documentacao oficial é uma das poucas verdades absolutas que existe no mundo da tecnologia.
 
 ### Mas e se eu nao souber ingles?
 
