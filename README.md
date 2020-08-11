@@ -1,4 +1,6 @@
-# Conhecimento é liberdade
+# Sobre a mentoria
+
+## Conhecimento é liberdade
 
 Um dos principais objetivos desta mentoria é te tornar livre.
 
@@ -10,7 +12,7 @@ Conhecimento é liberdade. 📚
 
 Outro objetivo principal é te ajudar a sair do zero caso você esteja iniciando. Quero resolver o grande paradoxo de desenvolvedores(as) que estão começando: pra conseguir um bom emprego (ou trabalhos) é necessário ter experiência, mas pra ter experiência é preciso conseguir um bom emprego (ou trabalhos).
 
-# Sobre a mentoria
+## Mais detalhes sobre a mentoria
 
 No dia 10 de agosto de 2020 decidi [tentar ajudar](https://twitter.com/hnordt/status/1292880783296925696) desenvolvedores(as) que tem pouca experiência com [React](https://reactjs.org) e que estão procurando emprego ou estão insatisfeitos(as) com o emprego atual.
 
@@ -20,7 +22,7 @@ Como fica impossível ajudar todo mundo individualmente, criei este repositório
 
 Além disso este `README` é um ebook em desenvolvimento.
 
-# Sobre mim
+## Sobre mim
 
 Desenvolvo sistemas desde 2006. Comecei com PHP, estudei Ruby, Python, e depois de 8 anos (2014) foquei em JavaScript. Trabalhei com Node.js, MySQL, MSSQL, MongoDB, CouchDB, entre vários outros banco de dados, jQuery, Sammy.js Angular.js, e finalmente em 2013 me apaixonei pelo React.
 
@@ -28,11 +30,15 @@ Em 2015 comecei a trabalhar como freelancer para startups nos EUA exclusivamente
 
 Tive (e ainda tenho) sucesso trabalhando como freelancer para empresas e startups do mundo todo, principalmente EUA, e agora tenho vontade de fazer algo pela comunidade.
 
-# Tire dúvidas e peça ajuda!
+## Tire dúvidas e peça ajuda!
 
 Como dito acima, a ideia é que os mentorados usem a parte de [issues](https://github.com/hnordt/mentoring/issues) para postar suas dúvidas ou pedidos de ajuda, e todo dia vou tentar responder alguém, assim podemos ajudar várias pessoas ao mesmo tempo.
 
 Sinta-se a vontade para postar [sua primeira dúvida, pedir ajuda, ou contar sua história](https://github.com/hnordt/mentoring/issues/new).
+
+# Capítulo I: A tecnologia
+
+TODO
 
 # Agradecimentos
 
