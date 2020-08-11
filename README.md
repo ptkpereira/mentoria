@@ -2,7 +2,7 @@
 
 Um dos principais objetivos desta mentoria é te tornar livre.
 
-Se você decidir trabalhar como empregado, quero que você escolha uma empresa que goste, e não que aceite trabalhar para empresas que não te valorizam ou que te tratam mal.
+Se você decidir trabalhar como empregado, quero que você escolha uma empresa que goste, e não que aceite trabalhar para empresas que não te [valorizam](https://github.com/hnordt/mentoria/issues/25) ou que te tratam mal.
 
 Se você decidir trabalhar como freelancer, quero que você consiga manter um pipeline de projetos sem intermediários, não quero que você seja vítima de pessoas que querem explorar mão de obra barata.
 
