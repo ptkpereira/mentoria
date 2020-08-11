@@ -28,9 +28,9 @@ Sinta-se a vontade para postar [sua primeira dúvida, pedir ajuda, ou contar sua
 
 ## Sobre acentuacao
 
-Faz alguns anos que trabalho exclusivamente escrevendo em ingles. Perdi totalmente a paciencia e pratica de acentuar palavras.
+Faz alguns anos que trabalho exclusivamente escrevendo em ingles. Perdi totalmente a paciência e prática de acentuar palavras.
 
-Como o ebook esta em desenvolvimento, nao vou acentuar nada pra terminar o mais rapido possivel. Fique a vontade para fazer pull requests se quiser ajudar.
+Como o ebook está em desenvolvimento, não vou acentuar nada pra terminar o mais rápido possivel. Fique a vontade para fazer pull requests se quiser ajudar.
 
 # Capítulo I: Questões técnicas
 
@@ -38,29 +38,29 @@ Como o ebook esta em desenvolvimento, nao vou acentuar nada pra terminar o mais 
 
 Há mercado suficiente para desenvolvedores que querem trabalhar apenas com frontend, apenas com backend, ou ambos. Então essa é uma escolha pessoal, escolha o que te faz mais feliz.
 
-Apenas tenha em mente que é muito difícil se tornar especialista em ambos, uma vez que tanto frontend quanto backend evoluem muito rápido. Um especialista precisa estudar diariamente, e voce dificilmente vai conseguir tempo pra se aprofundar nos dois e ainda trabalhar.
+Apenas tenha em mente que é muito difícil se tornar especialista em ambos, uma vez que tanto frontend quanto backend evoluem muito rápido. Um especialista precisa estudar diariamente, e você dificilmente vai conseguir tempo pra se aprofundar nos dois e ainda trabalhar.
 
-Em geral, especialistas conseguem salarios maiores. Isso nao quer dizer que um full stack ganha menos. Depende da sua experiencia e da sua habilidade de negociacao.
+Em geral, especialistas conseguem salários maiores. Isso não quer dizer que um full stack ganha menos. Depende da sua experiência e da sua habilidade de negociação.
 
-Eu particularmente prefiro ser especialista em algo. Há 5 anos trabalho exclusivamente com frontend, e tenho tempo para estudar diaramente. As vezes faço alguns projetos backend, mas apenas por diversao.
+Eu particularmente prefiro ser especialista em algo. Há 5 anos trabalho exclusivamente com frontend, e tenho tempo para estudar diariamente. Às vezes faço alguns projetos backend, mas apenas por diversão.
 
-Pra resumir, o mercado precisa de especialistas em frontend, backend e também full stack developers. Escolha o que te faz mais feliz. Leve apenas em consideracao que como full stack fica mais dificil se tornar especialista.
+Pra resumir, o mercado precisa de especialistas em frontend, backend e também full stack developers. Escolha o que te faz mais feliz. Leve apenas em consideração que como full stack fica mais difícil se tornar especialista.
 
 ## PHP, Python, Ruby ou JavaScript? React, Vue ou Angular? Express ou Koa?
 
 Mais uma vez, escolha o que te faz mais feliz. Tanto a linguagem como a biblioteca. Existe mercado pra tudo.
 
-Se voce nao sabe o que te faz feliz, recomendo brincar com cada tecnologia de forma incremental (um pouco por dia), e escolha o que gosta mais.
+Se você não sabe o que te faz feliz, recomendo brincar com cada tecnologia de forma incremental (um pouco por dia), e escolha o que gosta mais.
 
-Evite entrar em discussoes religiosas sobre linguagens, bibliotecas ou frameworks. Essas discussoes sao totalmente inuteis.
+Evite entrar em discussões religiosas sobre linguagens, bibliotecas ou frameworks. Essas discussões são totalmente inúteis.
 
-Aprenda que no mundo da tecnologia tudo tem vantagens e desvantagens. Absolutamente tudo. Escolha o que gosta mais, e esqueca discussoes bestas.
+Aprenda que no mundo da tecnologia tudo tem vantagens e desvantagens. Absolutamente tudo. Escolha o que gosta mais, e esqueca discussões bestas.
 
-Apenas uma recomendacao: evite frameworks que te amarram ao mundo deles. Esse é um motivo pelo qual nao gosto de Angular (pelo menos a versao 1). Ele tenta fazer demais por voce, tem opiniao sobre tudo. No comeco é bom pq vc tem alguem te dando solucoes pra problemas que vc nao quer pensar. Mas quando vc ganha experiencia, vc percebe que está preso ao mundo do framework e fica dificil sair dele. Isso é bem limitador.
+Apenas uma recomendação: evite frameworks que te amarram ao mundo deles. Esse é um motivo pelo qual não gosto de Angular (pelo menos a versão 1). Ele tenta fazer demais por você, tem opinião sobre tudo. No começo é bom porque você tem alguém te dando soluções pra problemas que você não quer pensar. Mas quando você ganha experiência, você percebe que está preso ao mundo do framework e fica difícil sair dele. Isso é bem limitador.
 
-Eu particularmente gosto de bibliotecas como React, que nao te dao uma solucao completa, elas tentam resolver apenas um problema, mas resolvem muito bem. No comeco é complicado. Voce é iniciante e precisa aprender a combinar diversas bibliotecas pra criar uma solucao. Mas com o tempo fica mais facil, e a liberdade que vc ganha vale a pena.
+Eu particularmente gosto de bibliotecas como React, que não te dão uma solução completa, elas tentam resolver apenas um problema, mas resolvem muito bem. No começo é complicado. Você é iniciante e precisa aprender a combinar diversas bibliotecas pra criar uma solução. Mas com o tempo fica mais fácil, e a liberdade que você ganha vale a pena.
 
-Dito isso, é apenas minha opiniao pessoal, se voce gosta de frameworks, use frameworks.
+Dito isso, é apenas minha opinião pessoal, se você gosta de frameworks, use frameworks.
 
 ## Depois que escolhi minha linguagem, bilioteca e/ou framework. Como devo estudar?
 
