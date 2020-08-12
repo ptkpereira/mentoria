@@ -90,9 +90,11 @@ O beneficio de ler e entender a documentacao oficial é uma das poucas verdades 
 
 TODO
 
-## Como escolher novas tecnologias para estudar?
+## Como decidir que tecnologias estudar?
 
 TODO
+
+## Devo estudar varias tecnologias ao mesmo tempo?
 
 ## Quanto tempo estudar?
 
