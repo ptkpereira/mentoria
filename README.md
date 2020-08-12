@@ -30,8 +30,6 @@ Sinta-se a vontade para postar [sua primeira dúvida, pedir ajuda, ou contar sua
 
 Devido a minha falta de tempo, acabo recusando muitos projetos. Assim que terminar o ebook e estruturar melhor a mentoria, pretendo repassar bons projetos pra desenvolvedores(as) que estao procurando seu primeiro emprego ou projeto, ou que querem aumentar seu faturamento.
 
-Ainda nao sei como vou estruturar isso, mas pretendo!
-
 ## Sobre acentuacao
 
 Faz alguns anos que trabalho exclusivamente escrevendo em ingles. Perdi totalmente a paciência e prática de acentuar palavras.
