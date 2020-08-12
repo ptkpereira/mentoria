@@ -30,7 +30,7 @@ Sinta-se a vontade para postar [sua primeira dúvida, pedir ajuda, ou contar sua
 
 Devido a minha falta de tempo, acabo recusando muitos projetos. Assim que terminar o ebook e estruturar melhor a mentoria, pretendo repassar bons projetos pra desenvolvedores(as) que estao procurando seu primeiro emprego ou projeto, ou que querem aumentar seu faturamento.
 
-## Sobre acentuacao
+## Sobre acentuação
 
 Faz alguns anos que trabalho exclusivamente escrevendo em ingles. Perdi totalmente a paciência e prática de acentuar palavras.
 
@@ -72,25 +72,25 @@ Cada pessoa aprende de um jeito. Alguns tem mais facilidade de aprender vendo v�
 
 Uma coisa é fato. Estudar é chato, mas é necessário. 
 
-Independente do metodo de aprendizado que funciona com voce, uma coisa é absolutamente essencial: leia a documentacao oficial da tecnologia que quer aprender.
+Independente do método de aprendizado que funciona com você, uma coisa é absolutamente essencial: leia a documentação oficial da tecnologia que quer aprender.
 
 > Tecnologia neste contexto é qualquer linguagem, biblioteca ou framework
 
-Vou repetir: leia a documentacao oficial da tecnologia que quer aprender.
+Vou repetir: leia a documentação oficial da tecnologia que quer aprender.
 
-Isso deve ser a primeira coisa a se fazer quando decidir aprender alguma tecnologia. Esqueca blogs, esqueca screencasts, esqueca todo o conteudo paralelo e indireto. Leia a documentacao oficial da tecnologia que quer aprender.
+Isso deve ser a primeira coisa a se fazer quando decidir aprender alguma tecnologia. Esqueça blogs, esqueça screencasts, esqueça todo o conteúdo paralelo e indireto. Leia a documentação oficial da tecnologia que quer aprender.
 
-Provavelmente vc nao vai absorver todo o conteudo na primeira leitura. Nao tem problema. Para os topicos que nao conseguir entender, peça ajuda na comunidade, e se mesmo assim continuar com duvidas, avance e deixe pra voltar nisso mais tarde.
+Provavelmente você não vai absorver todo o conteúdo na primeira leitura. Não tem problema. Para os tópicos que não conseguir entender, peça ajuda na comunidade, e se mesmo assim continuar com dúvidas, avance e deixe pra voltar nisso mais tarde.
 
-Por exemplo, eu só entendi 100% da documentacao oficial do React depois de 5 anos. Eu reli essa documentacao pelo menos umas 10 vezes. Todas as vezes que reli aprendi algo novo que deixei passar, ou nao tinha entendido, ou que achei que tinha entendido.
+Por exemplo, eu só entendi 100% da documentação oficial do React depois de 5 anos. Eu reli essa documentação pelo menos umas 10 vezes. Todas as vezes que reli aprendi algo novo que deixei passar, ou não tinha entendido, ou que achei que tinha entendido.
 
-A documentacao oficial da tecnologia que vc quer aprender é a coisa mais importante a estudar, nela vc vai encontrar praticamente tudo que precisa aprender. Artigos, videos, ou qualquer conteudo paralelo ou indireto sao complementares. Coisa que vc pode estudar com o tempo.
+A documentação oficial da tecnologia que você quer aprender é a coisa mais importante a estudar, nela você vai encontrar praticamente tudo que precisa aprender. Artigos, videos, ou qualquer conteúdo paralelo ou indireto são complementares. Coisa que você pode estudar com o tempo.
 
-Esqueca essa ideia de boas praticas. Boas praticas sao passageiras, o que é boa pratica hoje, amanha pode nao ser. Todas as "boas praticas" que sao a prova do tempo estao documentadas na documentacao oficial.
+Esqueça essa ideia de boas praticas. Boas práticas sao passageiras, o que é boa prática hoje, amanhã pode não ser. Todas as "boas práticas" que são a prova do tempo estão documentadas na documentação oficial.
 
-Se quiser ser um programador acima da media, que realmente entende o que usa, leia a documentacao oficial. Leia e releia, varias vezes se for necessario.
+Se quiser ser um programador acima da média, que realmente entende o que usa, leia a documentação oficial. Leia e releia, várias vezes se for necessário.
 
-O beneficio de ler e entender a documentacao oficial é uma das poucas verdades absolutas que existe no mundo da tecnologia.
+O benefício de ler e entender a documentação oficial é uma das poucas verdades absolutas que existe no mundo da tecnologia.
 
 ### Mas e se eu nao souber ingles?
 
