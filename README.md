@@ -70,6 +70,8 @@ Uma coisa é fato. Estudar é chato, mas é necessário.
 
 Independente do metodo de aprendizado que funciona com voce, uma coisa é absolutamente essencial: leia a documentacao oficial da tecnologia que quer aprender.
 
+> Tecnologia neste contexto é qualquer linguagem, biblioteca ou framework
+
 Vou repetir: leia a documentacao oficial da tecnologia que quer aprender.
 
 Isso deve ser a primeira coisa a se fazer quando decidir aprender alguma tecnologia. Esqueca blogs, esqueca screencasts, esqueca todo o conteudo paralelo e indireto. Leia a documentacao oficial da tecnologia que quer aprender.
@@ -95,6 +97,8 @@ TODO
 TODO
 
 ## Devo estudar varias tecnologias ao mesmo tempo?
+
+TODO
 
 ## Quanto tempo estudar?
 
