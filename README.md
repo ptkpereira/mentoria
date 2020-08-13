@@ -72,9 +72,7 @@ Cada pessoa aprende de um jeito. Alguns tem mais facilidade de aprender vendo v�
 
 Uma coisa é fato. Estudar é chato, mas é necessário. 
 
-Independente do método de aprendizado que funciona com você, uma coisa é absolutamente essencial: leia a documentação oficial da tecnologia que quer aprender.
-
-*ℹ️ Tecnologia neste contexto é qualquer linguagem, biblioteca ou framework*
+Independente do método de aprendizado que funciona com você, uma coisa é absolutamente essencial: leia a documentação oficial da tecnologia que quer aprender. Tecnologia neste contexto é qualquer linguagem, biblioteca ou framework.
 
 Vou repetir: leia a documentação oficial da tecnologia que quer aprender.
 
@@ -202,3 +200,4 @@ TODO
 
 - [Sibelius Seraphini](https://twitter.com/sseraphini) pela ideia de iniciar a mentoria
 - [Joao Marins](https://twitter.com/jgcmarins) por fazer as primeiras perguntas que me motivaram ainda mais a dar seguimento ao projeto
+- [Júlio Xavier](https://twitter.com/julioxavierr) por fazer o primeiro pull request e ajudar com as acentuações
