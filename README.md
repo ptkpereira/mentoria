@@ -94,7 +94,19 @@ O benefício de ler e entender a documentação oficial é uma das poucas verdad
 
 ### Mas e se eu nao souber ingles?
 
-TODO
+Se nao souber ingles, voce sempre vai consumir conteudo potencialmente desatualizado e passivel de erros de interpretacao.
+
+É essencial que voce pelo menos aprenda a ler e escrever em ingles.
+
+Se voce decidir trabalhar para clientes no exterior, falar é algo que voce pode adiar por algum tempo. Quando comecei minha carreira internacional eu sabia ler e malemal escrever, levei 4 anos pra aprender a falar. Nunca tive dificuldade pra encontrar clientes, a comunicacao era feita toda por chat. Acredite em mim quando digo que clientes nao querem saber seu nivel de ingles. Eles só precisam de alguma forma de se comunicar com voce.
+
+Agora, nao fique viajando e achando que precisa pagar cursos de ingles, ou estudar gramatica. Nao perca nem um minuto estudando ingles. Nunca parei pra estudar ingles, e nunca gastei um real pra aprender. Aprendi de forma indireta.
+
+Lembro que um dos meus primeiros contatos com ingles foi no [php.net](https://php.net). Meu vocabulario na epoca devia ter umas 100 palavras. Pra ler a documentacao do PHP eu procurava no dicionario de Ingles palavra por palavra. Foi assim que aprendi. Demorava pelo menos 2 horas pra conseguir ler um unico artigo, mas eu gravava o significado conforme procurava a mesma palavra varias vezes. Com o tempo minha velocidade foi aumentado, até a leitura se tornar fluente.
+
+Muito importante! Não use o tradutor pra traduzir frases inteiras, procure no dicionario palavra por palavra. Se traduzir frases inteiras voce vai precisar traduzir pra sempre. Confie em mim.
+
+É chato e trabalhoso, mas deixe de ser malandro! É de graça e funciona.
 
 ## Como decidir que tecnologias estudar?
 
