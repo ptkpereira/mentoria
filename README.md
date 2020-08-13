@@ -202,3 +202,4 @@ TODO
 
 - [Sibelius Seraphini](https://twitter.com/sseraphini) pela ideia de iniciar a mentoria
 - [Joao Marins](https://twitter.com/jgcmarins) por fazer as primeiras perguntas que me motivaram ainda mais a dar seguimento ao projeto
+- [Júlio Xavier](https://twitter.com/julioxavierr) por fazer o primeiro pull request e ajudar com as acentuações
