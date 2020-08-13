@@ -32,7 +32,7 @@ Devido a minha falta de tempo, acabo recusando muitos projetos. Assim que termin
 
 ## Sobre acentuação
 
-Faz alguns anos que trabalho exclusivamente escrevendo em ingles. Perdi totalmente a paciência e prática de acentuar palavras.
+Faz alguns anos que trabalho exclusivamente escrevendo em inglês. Perdi totalmente a paciência e prática de acentuar palavras.
 
 Como o ebook está em desenvolvimento, não vou acentuar nada pra terminar o mais rápido possivel. Fique a vontade para fazer pull requests se quiser ajudar.
 
@@ -72,7 +72,9 @@ Cada pessoa aprende de um jeito. Alguns tem mais facilidade de aprender vendo v�
 
 Uma coisa é fato. Estudar é chato, mas é necessário. 
 
-Independente do método de aprendizado que funciona com você, uma coisa é absolutamente essencial: leia a documentação oficial da tecnologia que quer aprender. Tecnologia neste contexto é qualquer linguagem, biblioteca ou framework.
+Independente do método de aprendizado que funciona com você, uma coisa é absolutamente essencial: leia a documentação oficial da tecnologia que quer aprender.
+
+*ℹ️ Tecnologia neste contexto é qualquer linguagem, biblioteca ou framework*
 
 Vou repetir: leia a documentação oficial da tecnologia que quer aprender.
 
@@ -90,19 +92,19 @@ Se quiser ser um programador acima da média, que realmente entende o que usa, l
 
 O benefício de ler e entender a documentação oficial é uma das poucas verdades absolutas que existe no mundo da tecnologia.
 
-### Mas e se eu nao souber ingles?
+### Mas e se eu não souber inglês?
 
-Se nao souber ingles, voce sempre vai consumir conteudo potencialmente desatualizado e passivel de erros de interpretacao.
+Se não souber inglês, você sempre vai consumir conteúdo potencialmente desatualizado e passível de erros de interpretação.
 
-É essencial que voce pelo menos aprenda a ler e escrever em ingles.
+É essencial que você pelo menos aprenda a ler e escrever em inglês.
 
-Se voce decidir trabalhar para clientes no exterior, falar é algo que voce pode adiar por algum tempo. Quando comecei minha carreira internacional eu sabia ler e malemal escrever, levei 4 anos pra aprender a falar. Nunca tive dificuldade pra encontrar clientes, a comunicacao era feita toda por chat. Acredite em mim quando digo que clientes nao querem saber seu nivel de ingles. Eles só precisam de alguma forma de se comunicar com voce.
+Se você decidir trabalhar para clientes no exterior, falar é algo que você pode adiar por algum tempo. Quando comecei minha carreira internacional eu sabia ler e malemal escrever, levei 4 anos pra aprender a falar. Nunca tive dificuldade pra encontrar clientes, a comunicação era feita toda por chat. Acredite em mim quando digo que clientes não querem saber seu nível de inglês. Eles só precisam de alguma forma de se comunicar com você.
 
-Agora, nao fique viajando e achando que precisa pagar cursos de ingles, ou estudar gramatica. Nao perca nem um minuto estudando ingles. Nunca parei pra estudar ingles, e nunca gastei um real pra aprender. Aprendi de forma indireta.
+Agora, não fique viajando e achando que precisa pagar cursos de inglês, ou estudar gramática. Não perca nem um minuto estudando ingles. Nunca parei pra estudar inglês, e nunca gastei um real pra aprender. Aprendi de forma indireta.
 
-Lembro que um dos meus primeiros contatos com ingles foi no [php.net](https://php.net). Meu vocabulario na epoca devia ter umas 100 palavras. Pra ler a documentacao do PHP eu procurava no dicionario de Ingles palavra por palavra. Foi assim que aprendi. Demorava pelo menos 2 horas pra conseguir ler um unico artigo, mas eu gravava os multiplos significados de cada palavra conforme procurava a mesma palavra varias vezes. Com o tempo minha velocidade foi aumentado, até a leitura se tornar fluente.
+Lembro que um dos meus primeiros contatos com inglês foi no [php.net](https://php.net). Meu vocabulário na época devia ter umas 100 palavras. Pra ler a documentacao do PHP eu procurava no dicionário de inglês palavra por palavra. Foi assim que aprendi. Demorava pelo menos 2 horas pra conseguir ler um único artigo, mas eu gravava os múltiplos significados de cada palavra conforme procurava a mesma palavra varias vezes. Com o tempo minha velocidade foi aumentando, até a leitura se tornar fluente.
 
-Muito importante! Não use o tradutor pra traduzir frases inteiras, procure no dicionario palavra por palavra. Se traduzir frases inteiras voce vai precisar traduzir pra sempre. Confie em mim.
+Muito importante! Não use o tradutor pra traduzir frases inteiras, procure no dicionario palavra por palavra. Se traduzir frases inteiras, você vai precisar traduzir pra sempre. Confie em mim.
 
 É chato e trabalhoso, mas deixe de ser malandro! É de graça e funciona.
 
@@ -200,4 +202,3 @@ TODO
 
 - [Sibelius Seraphini](https://twitter.com/sseraphini) pela ideia de iniciar a mentoria
 - [Joao Marins](https://twitter.com/jgcmarins) por fazer as primeiras perguntas que me motivaram ainda mais a dar seguimento ao projeto
-- [Júlio Xavier](https://twitter.com/julioxavierr) por fazer o primeiro pull request e ajudar com as acentuações
