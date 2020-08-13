@@ -72,9 +72,7 @@ Cada pessoa aprende de um jeito. Alguns tem mais facilidade de aprender vendo v�
 
 Uma coisa é fato. Estudar é chato, mas é necessário. 
 
-Independente do método de aprendizado que funciona com você, uma coisa é absolutamente essencial: leia a documentação oficial da tecnologia que quer aprender.
-
-*ℹ️ Tecnologia neste contexto é qualquer linguagem, biblioteca ou framework*
+Independente do método de aprendizado que funciona com você, uma coisa é absolutamente essencial: leia a documentação oficial da tecnologia que quer aprender. Tecnologia neste contexto é qualquer linguagem, biblioteca ou framework.
 
 Vou repetir: leia a documentação oficial da tecnologia que quer aprender.
 
