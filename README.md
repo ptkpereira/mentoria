@@ -96,7 +96,7 @@ Se não souber inglês, você sempre vai consumir conteúdo potencialmente desat
 
 É essencial que você pelo menos aprenda a ler e escrever em inglês.
 
-Se você decidir trabalhar para clientes no exterior, falar é algo que você pode adiar por algum tempo. Quando comecei minha carreira internacional eu sabia ler e mal escrever, levei 4 anos pra aprender a falar. Nunca tive dificuldade pra encontrar clientes, a comunicação era feita toda por chat. Acredite em mim quando digo que clientes não querem saber seu nível de inglês. Eles só precisam de alguma forma de se comunicar com você.
+Se você decidir trabalhar para clientes no exterior, falar é algo que você pode adiar por algum tempo. Quando comecei minha carreira internacional eu sabia ler e malemal escrever, levei 4 anos pra aprender a falar. Nunca tive dificuldade pra encontrar clientes, a comunicação era feita toda por chat. Acredite em mim quando digo que clientes não querem saber seu nível de inglês. Eles só precisam de alguma forma de se comunicar com você.
 
 Agora, não fique viajando e achando que precisa pagar cursos de inglês, ou estudar gramática. Não perca nem um minuto estudando inglês. Nunca parei pra estudar inglês, e nunca gastei um real pra aprender. Aprendi de forma indireta.
 
