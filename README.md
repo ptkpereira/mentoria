@@ -24,11 +24,11 @@ Como fica impossível ajudar todo mundo individualmente, criei este repositório
 
 Além disso, este `README` é um ebook em desenvolvimento.
 
-Sinta-se a vontade para postar [sua primeira dúvida, pedir ajuda, ou contar sua história](https://github.com/hnordt/mentoring/issues/new).
+Sinta-se à vontade para postar [sua primeira dúvida, pedir ajuda, ou contar sua história](https://github.com/hnordt/mentoring/issues/new).
 
 ## Ajuda com vagas e projetos
 
-Devido a minha falta de tempo, acabo recusando muitos projetos. Assim que terminar o ebook e estruturar melhor a mentoria, pretendo repassar bons projetos pra desenvolvedores(as) que estao procurando seu primeiro emprego ou projeto, ou que querem aumentar seu faturamento.
+Devido à minha falta de tempo, acabo recusando muitos projetos. Assim que terminar o ebook e estruturar melhor a mentoria, pretendo repassar bons projetos pra desenvolvedores(as) que estao procurando seu primeiro emprego ou projeto, ou que querem aumentar seu faturamento.
 
 ## Sobre acentuação
 
@@ -58,7 +58,7 @@ Se você não sabe o que te faz feliz, recomendo brincar com cada tecnologia de 
 
 Evite entrar em discussões religiosas sobre linguagens, bibliotecas ou frameworks. Essas discussões são totalmente inúteis.
 
-Aprenda que no mundo da tecnologia tudo tem vantagens e desvantagens. Absolutamente tudo. Escolha o que gosta mais, e esqueca discussões bestas.
+Aprenda que no mundo da tecnologia tudo tem vantagens e desvantagens. Absolutamente tudo. Escolha o que gosta mais, e esqueça discussões bestas.
 
 Apenas uma recomendação: evite frameworks que te amarram ao mundo deles. Esse é um motivo pelo qual não gosto de Angular (pelo menos a versão 1). Ele tenta fazer demais por você, tem opinião sobre tudo. No começo é bom porque você tem alguém te dando soluções pra problemas que você não quer pensar. Mas quando você ganha experiência, você percebe que está preso ao mundo do framework e fica difícil sair dele. Isso é bem limitador.
 
@@ -82,9 +82,9 @@ Provavelmente você não vai absorver todo o conteúdo na primeira leitura. Não
 
 Por exemplo, eu só entendi 100% da documentação oficial do React depois de 5 anos. Eu reli essa documentação pelo menos umas 10 vezes. Todas as vezes que reli aprendi algo novo que deixei passar, ou não tinha entendido, ou que achei que tinha entendido.
 
-A documentação oficial da tecnologia que você quer aprender é a coisa mais importante a estudar, nela você vai encontrar praticamente tudo que precisa aprender. Artigos, videos, ou qualquer conteúdo paralelo ou indireto são complementares. Coisa que você pode estudar com o tempo.
+A documentação oficial da tecnologia que você quer aprender é a coisa mais importante a estudar, nela você vai encontrar praticamente tudo que precisa aprender. Artigos, vídeos, ou qualquer conteúdo paralelo ou indireto são complementares. Coisa que você pode estudar com o tempo.
 
-Esqueça essa ideia de boas praticas. Boas práticas sao passageiras, o que é boa prática hoje, amanhã pode não ser. Todas as "boas práticas" que são a prova do tempo estão documentadas na documentação oficial.
+Esqueça essa ideia de boas práticas. Boas práticas são passageiras, o que é boa prática hoje, amanhã pode não ser. Todas as "boas práticas" que são a prova do tempo estão documentadas na documentação oficial.
 
 Se quiser ser um programador acima da média, que realmente entende o que usa, leia a documentação oficial. Leia e releia, várias vezes se for necessário.
 
@@ -96,13 +96,13 @@ Se não souber inglês, você sempre vai consumir conteúdo potencialmente desat
 
 É essencial que você pelo menos aprenda a ler e escrever em inglês.
 
-Se você decidir trabalhar para clientes no exterior, falar é algo que você pode adiar por algum tempo. Quando comecei minha carreira internacional eu sabia ler e malemal escrever, levei 4 anos pra aprender a falar. Nunca tive dificuldade pra encontrar clientes, a comunicação era feita toda por chat. Acredite em mim quando digo que clientes não querem saber seu nível de inglês. Eles só precisam de alguma forma de se comunicar com você.
+Se você decidir trabalhar para clientes no exterior, falar é algo que você pode adiar por algum tempo. Quando comecei minha carreira internacional eu sabia ler e mal escrever, levei 4 anos pra aprender a falar. Nunca tive dificuldade pra encontrar clientes, a comunicação era feita toda por chat. Acredite em mim quando digo que clientes não querem saber seu nível de inglês. Eles só precisam de alguma forma de se comunicar com você.
 
-Agora, não fique viajando e achando que precisa pagar cursos de inglês, ou estudar gramática. Não perca nem um minuto estudando ingles. Nunca parei pra estudar inglês, e nunca gastei um real pra aprender. Aprendi de forma indireta.
+Agora, não fique viajando e achando que precisa pagar cursos de inglês, ou estudar gramática. Não perca nem um minuto estudando inglês. Nunca parei pra estudar inglês, e nunca gastei um real pra aprender. Aprendi de forma indireta.
 
 Lembro que um dos meus primeiros contatos com inglês foi no [php.net](https://php.net). Meu vocabulário na época devia ter umas 100 palavras. Pra ler a documentacao do PHP eu procurava no dicionário de inglês palavra por palavra. Foi assim que aprendi. Demorava pelo menos 2 horas pra conseguir ler um único artigo, mas eu gravava os múltiplos significados de cada palavra conforme procurava a mesma palavra varias vezes. Com o tempo minha velocidade foi aumentando, até a leitura se tornar fluente.
 
-Muito importante! Não use o tradutor pra traduzir frases inteiras, procure no dicionario palavra por palavra. Se traduzir frases inteiras, você vai precisar traduzir pra sempre. Confie em mim.
+Muito importante! Não use o tradutor pra traduzir frases inteiras, procure no dicionário palavra por palavra. Se traduzir frases inteiras, você vai precisar traduzir pra sempre. Confie em mim.
 
 É chato e trabalhoso, mas deixe de ser malandro! É de graça e funciona.
 
